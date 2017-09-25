@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plugin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../engine/Shopware/Components/Plugin/schema/plugin.xsd">
+    <label lang="de">Menü Icons</label>
+    <label lang="en">Menu Icons</label>
+
+    <version>1.0.0</version>
+    <link>http://huebert-webentwicklung.de</link>
+    <author>Hübert Webentwicklung</author>
+
+    <description lang="de">
+        Ermöglich das hinzufügen eigener Bilder/Icons zum Menü
+    </description>
+    <description lang="en">
+        Make it possible to add images/icons to menu
+    </description>
+
+    <compatibility minVersion="5.2.0" />
+
+    <changelog version="1.0.0">
+        <changes lang="de">Erste Version</changes>
+        <changes lang="en">First version</changes>
+    </changelog>
+</plugin>
